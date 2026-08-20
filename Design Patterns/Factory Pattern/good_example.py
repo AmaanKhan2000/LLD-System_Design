@@ -38,7 +38,7 @@ class RestaurantService:
         f.prepare()
         return f
 
-rest_order = RestaurantService.create_order("pizza")    
+ 
         
 
         
