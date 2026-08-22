@@ -1,0 +1,5 @@
+from discount_strategy import DiscountStrategy
+
+class Bonanza(DiscountStrategy):
+    def calculate_discount(self):
+        print("The discount is 100rs")
